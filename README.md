@@ -1,7 +1,11 @@
 ### Hi there 👋
 
+I’m a junior QA engineer. I like testing mobile and web applications.
+I have graduated from the course " QA Engineer " by Yandex Practicum and successfully accomplished my diploma project. My skills include test design techniques, functional, non-functional, regression testing, writing test cases, checklists and start bug reports. I like being involved in a project and solving non-standard tasks.
+
 <!--
 **ekaterina-chuvagina/ekaterina-chuvagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
