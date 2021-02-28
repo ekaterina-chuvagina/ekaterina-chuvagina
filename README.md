@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" />
 
 I’m a junior QA engineer. I like testing mobile and web applications.
 I have graduated from the course " QA Engineer " by Yandex Practicum and successfully accomplished my diploma project. My skills include test design techniques, functional, non-functional, regression testing, writing test cases, checklists and start bug reports. I like being involved in a project and solving non-standard tasks.
