@@ -1,9 +1,20 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" />
 
-I’m a junior QA engineer. I like testing mobile and web applications.
-I have graduated from the course " QA Engineer " by Yandex Practicum and successfully accomplished my diploma project. My skills include test design techniques, functional, non-functional, regression testing, writing test cases, checklists and start bug reports. I like being involved in a project and solving non-standard tasks.
+I’m a manual QA engineer. I like testing mobile and web applications.
+I have graduated from the course " QA Engineer " by Yandex Practicum and successfully accomplished my diploma project. 
+I like being involved in a project and solving non-standard tasks.
 
 - 🔭 I’m currently looking for a new job.
+
+HARD SKILLS 👩🏻‍💻
+- test design techniques
+- functional, non-functional, regression testing
+- writing test cases, checklists and start bug reports
+- DevTools
+- Charles
+- Postman
+- Android Studio
+- PostgreSQL
 
 <!--
 **ekaterina-chuvagina/ekaterina-chuvagina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
