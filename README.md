@@ -6,7 +6,7 @@ I like being involved in a project and solving non-standard tasks.
 
 - 🔭 I’m currently looking for a new job.
 
-HARD SKILLS 👩🏻‍💻
+#### HARD SKILLS 👩🏻‍💻
 - test design techniques
 - functional, non-functional, regression testing
 - writing test cases, checklists and start bug reports
