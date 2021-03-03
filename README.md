@@ -8,7 +8,7 @@ I like being involved in a project and solving non-standard tasks.
 
 #### HARD SKILLS 👩🏻‍💻
 - test design techniques
-- functional, non-functional, regression testing
+- functional, regression testing
 - writing test cases, checklists and start bug reports
 - DevTools
 - Charles
