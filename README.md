@@ -2,6 +2,7 @@
 
 I’m a manual QA engineer. I like testing mobile and web applications.
 I have graduated from the course " QA Engineer " by Yandex Practicum and successfully accomplished my diploma project. 
+Now I work in an online store.
 I like being involved in a project and solving non-standard tasks.
 
 - 🔭 I’m currently looking for a new job.
